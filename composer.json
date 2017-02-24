@@ -1,5 +1,5 @@
 {
-    "name": "wysiwyg/ckeditor",
+    "name": "hardikdangar/laravel_ckeditor",
     "description": "Library for generate wysiwyg in PHP",
     "require": {
         "php": ">=5.3.0",
